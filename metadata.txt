@@ -1,0 +1,13 @@
+[general]
+name=qgis_microprocessing
+qgisMinimumVersion=2.8
+description=a minimal exemple of a processing plugin
+version=0.0.1
+author=Oslandia
+email=infos@oslandia.com
+homepage=https://github.com/Oslandia/qgis-microprocessing
+repository=https://github.com/Oslandia/qgis-microprocessing
+tracker=https://github.com/Oslandia/qgis-microprocessing/issues
+icon=micro.svg
+experimental=True
+deprecated=False
